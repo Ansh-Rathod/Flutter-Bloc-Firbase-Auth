@@ -1,6 +1,11 @@
 # blocauth
 
 A new Flutter project.
+- flutter bloc auth app with firebase.
+- keep user logged in feature.
+- web app + desktop app + android app + ios app
+
+web app link is [here](https://flutterblocfirebaseauth.netlify.app)
 
 ## Getting Started
 
