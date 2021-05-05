@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160762959673",
+    "project_id": "authbloc-a9717",
+    "storage_bucket": "authbloc-a9717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160762959673:android:12cbc69eeae842902ffae8",
+        "android_client_info": {
+          "package_name": "com.example.blocauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160762959673-n3tqt0regudq4sja6nqi3407qptktt0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0JV5F3EOBAsdutY4A3UaZISCcylXZLk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160762959673-n3tqt0regudq4sja6nqi3407qptktt0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
