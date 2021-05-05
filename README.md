@@ -17,6 +17,7 @@ A new Flutter project.
 
 - <img src="https://github.com/Appii00/flutter-bloc-firbase-auth/blob/master/https___flutterblocfirebaseauth.netlify.app_%23_login%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%205_5_2021%2012_45_03%20AM_LI.jpg" width="600">
 
+- Android App Download [here](https://mega.nz/file/vl0SSBYB#D_ynK-OML1XdwXenICsYgY4ixpWwcAqLwgrTNGFtADc) 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
