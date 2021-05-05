@@ -6,8 +6,14 @@ A new Flutter project.
 - web app + desktop app + android app + ios app
 
 web app link is [here](https://flutterblocfirebaseauth.netlify.app)
+
+
 ![Flutter demo](https://github.com/Appii00/flutter-bloc-firbase-auth/blob/master/Web%20capture_5-5-2021_04820_flutterblocfirebaseauth.netlify.app.jpeg)
-![Flutter demo](https://github.com/Appii00/flutter-bloc-firbase-auth/blob/master/https___flutterblocfirebaseauth.netlify.app_%23_login%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%205_5_2021%2012_45_03%20AM_LI.jpg)
+
+Install desktop app from end of address bar's frist icon when site full loaded.  
+
+![Flutter demo](https://github.com/Appii00/flutter-bloc-firbase-auth/blob/master/https___flutterblocfirebaseauth.netlify.app_%23_login%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%205_5_2021%2012_45_03%20AM_LI.jpg | width=100)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
