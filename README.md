@@ -5,17 +5,17 @@ A new Flutter project.
 - keep user logged in feature.
 - web app + desktop app + android app + ios app
 
-web app link is [here](https://flutterblocfirebaseauth.netlify.app)
+- web app link is [here](https://flutterblocfirebaseauth.netlify.app)
 
 
 
-<img src="https://github.com/Appii00/flutter-bloc-firbase-auth/blob/master/Web%20capture_5-5-2021_04820_flutterblocfirebaseauth.netlify.app.jpeg" width="600">
+- <img src="https://github.com/Appii00/flutter-bloc-firbase-auth/blob/master/Web%20capture_5-5-2021_04820_flutterblocfirebaseauth.netlify.app.jpeg" width="600">
 
 
-Install desktop app from end of address bar's frist icon when site full loaded.  
+- Install desktop app from end of address bar's frist icon when site full loaded.  
 
 
-<img src="https://github.com/Appii00/flutter-bloc-firbase-auth/blob/master/https___flutterblocfirebaseauth.netlify.app_%23_login%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%205_5_2021%2012_45_03%20AM_LI.jpg" width="600">
+- <img src="https://github.com/Appii00/flutter-bloc-firbase-auth/blob/master/https___flutterblocfirebaseauth.netlify.app_%23_login%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%205_5_2021%2012_45_03%20AM_LI.jpg" width="600">
 
 ## Getting Started
 
